@@ -46,6 +46,12 @@ def preprocess_wordsegment_text(input_textroot,output_textroot):
 
             print len(write_sentence)
             print len(sentence_tag)
+#总结上面所有的函数，输入训练数据路径，返回：
+# 1、字典、索引映射
+# 2、条件随机场特征矩阵f(x,y)
+def all_in_one()：
+
+
 
 
 
